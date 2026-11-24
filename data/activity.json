@@ -1,0 +1,10 @@
+[
+  {
+    "id": "e1482ca3-700e-4f01-96c0-9f5c18cb0b51",
+    "at": "2026-11-24T11:30:56.698Z",
+    "category": "system",
+    "title": "Server khởi động",
+    "detail": "Website đang chạy tại http://127.0.0.1:3003 · phiên bản public-web-v45-interactive-fix.",
+    "actor": "ADMIN"
+  }
+]
